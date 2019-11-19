@@ -8,10 +8,10 @@ head
    link href="main.css" type="text/css" rel="Stylesheet"
    header
    h1 Database for pictures h1
-   <nav class="navigation">
-      <a href="Startseite.html">Main Page</a>
-      <a href="Log in.html">Log In</a>
-      <a href="Sign In.html">Sign Up</a>
+   nav class="navigation"
+      a href="Startseite.html" Main Page a
+      a href="Log in.html"Log In a
+      a href="Sign In.html" Sign Up a
    </nav>
   </header>
   <section>
