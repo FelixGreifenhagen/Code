@@ -1,7 +1,7 @@
 # Code
 ## Startseite
 ## Html
-
+<br>
 <!DOCTYPE>
 <html>
 <head>
@@ -47,7 +47,7 @@
 </html>
 
 ## Registrierung
-
+<br>
 <!DOCTYPE>
 <!DOCTYPE html>
 <html>
@@ -109,7 +109,7 @@
 </html>
 
 ## Login
-
+<br>
 <!DOCTYPE>
 <!DOCTYPE html>
 <html>
@@ -161,7 +161,7 @@
 </body>
 
 ## Kontaktformular
-
+<br>
 <!DOCTYPE>
 <!DOCTYPE html>
 <html>
