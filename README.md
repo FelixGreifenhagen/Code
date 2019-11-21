@@ -1,7 +1,7 @@
 # Code
 ## Startseite
 ## Html
-<!DOCTYPE>
+"<!DOCTYPE>
 <html>
 <head>
    <meta charset="utf-8">
@@ -43,6 +43,6 @@
     </nav>
    </footer>
  </body>
-</html>
+</html>"
 
 ## Css
